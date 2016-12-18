@@ -14,7 +14,6 @@ import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
 
-
 /** Use HTTP GET/POST to access data
  * !!! need to use thread in main activity !!!
  * !!! need to use thread in main activity !!!
