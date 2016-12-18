@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         init();
+
         btn_ClineServer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
